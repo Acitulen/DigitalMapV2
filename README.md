@@ -35,12 +35,6 @@
 </details>  
 
 <details>  
-<summary>Install VoidMod-2.1.0</summary>  
-
-1. Copy `VoidMod2.pak` from the `pak` folder to the `GAME/Content/Paks/LogicMods` directory.  
-</details>  
-
-<details>  
 <summary>Install DigitalMapV2</summary>  
 
 1. Copy `DigitalMapV2.pak` from the `pak` folder to the `GAME/Content/Paks/LogicMods` directory.  
