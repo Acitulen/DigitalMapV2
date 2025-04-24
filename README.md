@@ -1,5 +1,20 @@
-# **DigitalMapV2**  
-#### This mod expands the capabilities of the digital map by adding a directional cursor and a built-in radar.
+# DigitalMapV2  
+This mod expands the capabilities of the digital map by adding a directional cursor and a built-in radar.  
+
+**⚠️WARNING⚠️ This mod is designed to work with VotV-082b_0016. Using older or newer versions of the game may cause errors!**  
+
+If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/DigitalMapV2).
+
+# Configs:
+Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
+
+**RadarPointSize** – Changes the size of radar points. Default value: `1.8`  
+**PlayerIconSize** – Changes the size of the player icon. Default value: `1.8`  
+**CoordinatesSize** – Changes the size of the coordinates display text. Default value: `1.8`  
+**DebugMode** – Enables a debug widget that shows more information about radar actors. Default value: `false` 
+**DebugModeDelay** - Changes the delay of debug mode widget update. Default value: `0.1` 
+**ExcludedActors** – A list of objects that won't be shown on the digital map or debug widget (use `,` as a separator). Default value: `prop_ABFriend_c,NewBlueprint8_c`  
+
 
 ## Preview  
 ![Preview](https://github.com/Acitulen/DigitalMapV2/blob/main/Preview_1.3.0.png?raw=true)  
@@ -10,13 +25,6 @@
 - Different colors for radar blips (requires the radar colors module).  
 - Different entity scanning speeds (depends on the radar speed module upgrade).  
 - Customizable map elements.  
-
-## Configs  
-- **RadarPointSize** – Changes the size of radar points. Default value: `1.8`  
-- **PlayerIconSize** – Changes the size of the player icon. Default value: `1.8`  
-- **CoordinatesSize** – Changes the size of the coordinates display text. Default value: `1.8`  
-- **DebugMode** – Enables a debug widget that shows more information about radar actors while holding the digital map. Default value: `false`  
-- **ExcludedActors** – A list of objects that won't be shown on the digital map or debug widget (use `,` as a separator). Default value: `prop_ABFriend_c,NewBlueprint8_c`  
 
 ## Manual Installation Guide  
 
@@ -39,5 +47,5 @@
 
 1. Copy `DigitalMapV2.pak` from the `pak` folder to the `GAME/Content/Paks/LogicMods` directory.  
 2. Copy the contents of the `mod` folder to `GAME/Binaries/Win64/Mods/Acitulen-DigitalMapV2`.  
-   - You have to create the `Acitulen-DigitalMapV2` folder manually.  
+   *You have to create the `Acitulen-DigitalMapV2` folder manually.  
 </details>
