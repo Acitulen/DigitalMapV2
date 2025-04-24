@@ -21,6 +21,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 **ExcludedActors** – A list of objects that won't be shown on the digital map or debug widget (use `,` as a separator). Default value: `prop_ABFriend_c,NewBlueprint8_c`  
 
 
+
 ## Preview  
 ![Preview](https://github.com/Acitulen/DigitalMapV2/blob/1.4.0/Preview/Preview1.png?raw=true)  
 
