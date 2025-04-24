@@ -17,7 +17,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 
 ## Preview  
-![Preview](https://github.com/Acitulen/DigitalMapV2/tree/1.4.0/Preview/Preview1.png?raw=true)  
+![Preview](https://github.com/Acitulen/DigitalMapV2/blob/1.4.0/Preview/Preview1.png?raw=true)  
 
 ## Features  
 - Displays the player's direction.  
