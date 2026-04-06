@@ -8,19 +8,26 @@ If you have any suggestions or find a bug, you can submit it as an "issue" in my
 # Configs:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
-**RadarPointSize** – Changes the size of radar points. Default value: `1.8`  
+**RadarPointSize** – Changes the size of radar points.
+Default value: `1.8`  
 
-**PlayerIconSize** – Changes the size of the player icon. Default value: `1.8`  
+**PlayerIconSize** – Changes the size of the player icon.
+Default value: `1.8`  
 
-**CoordinatesSize** – Changes the size of the coordinates display text. Default value: `1.8`  
+**CoordinatesSize** – Changes the size of the coordinates display text.
+Default value: `1.8`  
 
-**PlayerMark** – Changes the style of the player icon. Default value: `New`  
+**PlayerMark** – Changes the style of the player icon.
+Default value: `New`  
 
-**DebugMode** – Enables a debug widget that shows more information about radar actors. Default value: `false`  
+**DebugMode** – Enables a debug widget that shows more information about radar actors.
+Default value: `false`  
 
-**DebugModeDelay** - Changes the update delay of debug mode widget. Default value: `0.1`  
+**DebugModeDelay** - Changes the update delay of debug mode widget.
+Default value: `0.1`  
 
-**ExcludedActors** – A list of objects that won't be shown on the digital map or debug widget (use `,` as a separator). Default value: `prop_ABFriend_c,NewBlueprint8_c`  
+**ExcludedActors** – A list of objects that won't be shown on the digital map or debug widget (use `,` as a separator).
+Default value: `prop_ABFriend_c,NewBlueprint8_c`  
 
 
 
