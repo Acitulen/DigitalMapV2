@@ -1,7 +1,7 @@
 # DigitalMapV2  
-This mod expands the capabilities of the digital map by adding a directional cursor and a built-in radar.  
+This mod expands the capabilities of the digital map by adding a built-in radar.  
 
-**⚠️WARNING⚠️ This mod is designed to work with VotV-082b_0016. Using older or newer versions of the game may cause errors!**  
+**⚠️WARNING⚠️ This version of DigitalMapV2 is designed to function with VotV a0.9.0j. Using older or newer versions of the game may cause errors!**  
 
 If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/DigitalMapV2).
 
@@ -14,23 +14,25 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 **CoordinatesSize** – Changes the size of the coordinates display text. Default value: `1.8`  
 
+**PlayerMark** – Changes the style of the player icon. Default value: `New`  
+
 **DebugMode** – Enables a debug widget that shows more information about radar actors. Default value: `false`  
 
-**DebugModeDelay** - Changes the delay of debug mode widget update. Default value: `0.1`  
+**DebugModeDelay** - Changes the update delay of debug mode widget. Default value: `0.1`  
 
 **ExcludedActors** – A list of objects that won't be shown on the digital map or debug widget (use `,` as a separator). Default value: `prop_ABFriend_c,NewBlueprint8_c`  
 
 
 
 ## Preview  
-![Preview](https://github.com/Acitulen/DigitalMapV2/blob/1.4.0/Preview/Preview1.png?raw=true)  
+![Preview](https://github.com/Acitulen/DigitalMapV2/blob/1.4.1/Preview/Preview1.png?raw=true)  
 
-## Features  
-- Displays the player's direction.  
+## Features   
 - Displays entities.  
 - Different colors for radar blips (requires the radar colors module).  
 - Different entity scanning speeds (depends on the radar speed module upgrade).  
 - Customizable map elements.  
+- Allows to exclude actors from the digital map.
 
 ## Manual Installation Guide  
 
