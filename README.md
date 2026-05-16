@@ -1,7 +1,7 @@
 # DigitalMapV2  
 This mod expands the capabilities of the digital map by adding a built-in radar.  
 
-**⚠️WARNING⚠️ This version of DigitalMapV2 is designed to function with VotV a0.9.0j. Using older or newer versions of the game may cause errors!**  
+**⚠️WARNING⚠️ This version of DigitalMapV2 is designed to function with VotV a0.9.0m. Using older or newer versions of the game may cause errors!**  
 
 If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/DigitalMapV2).
 
@@ -32,7 +32,7 @@ Default value: `prop_ABFriend_c,NewBlueprint8_c`
 
 
 ## Preview  
-![Preview](https://github.com/Acitulen/DigitalMapV2/blob/1.4.1/Preview/Preview1.png?raw=true)  
+![Preview](https://github.com/Acitulen/DigitalMapV2/blob/1.4.2/Preview/Preview1.png?raw=true)  
 
 ## Features   
 - Displays entities.  
